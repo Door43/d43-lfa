@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lfa:home|Door43 (lfa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lfa|d43-lfa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lfa/archive/master.zip|d43-lfa.zip]]
+
+**Recent Changes**
+{{changes>ns = lfa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lfa|Ethnologue data]]
+
